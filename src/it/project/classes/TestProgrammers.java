@@ -5,7 +5,7 @@ public class TestProgrammers {
         Programmer Gino = new Programmer();
         Programmer Paoli = new Programmer();
 
-        Gino.name = "Gino";
+        Gino.name = "gino";
         Gino.age = 22;
         Gino.wearsGlasses = true;
 
